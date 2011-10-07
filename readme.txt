@@ -12,7 +12,7 @@ In memory of Steve Jobs...
 
 == Description ==
 
-<strong>In memory of Steve Jobs.</strong>
+<strong>In memory of Steve Jobs...</strong>
 
 For desktop browsers plugin displays small tab at the right bottom corner of website. Once clicked, the memorial box appears.
 For mobile browsers plugin displays memorial box at the top of website. It is displayed only one time per visitor.
