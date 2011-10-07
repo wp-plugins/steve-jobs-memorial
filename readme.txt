@@ -2,6 +2,7 @@
 Contributors: ichurakov
 Plugin Name: Steve Jobs Memorial
 Author: Unknown Author
+Donate link: http://www.apple.com/stevejobs/
 Tags: Steve Jobs, Apple, memory, memorial
 Requires at least: 3.0
 Tested up to: 3.2.1
@@ -20,8 +21,6 @@ Memorial box contains Steve's photo and his famous quote "Stay Hungry, Stay Fool
 You can see demo here: <a href="http://www.icprojects.net/steve-jobs-memorial.html">In memory of Steve Jobs</a>.
 
 == Installation ==
-
-This section describes how to install the plugin and get it working.
 
 1. Upload folder "steve-jobs-memorial" (and its content) into your WordPress plugin folder (normally it is /wp-content/plugins/).
 2. Go to WordPress admin area and activate the plugin in plugin sections (like you do for any other plugins).
