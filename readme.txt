@@ -12,9 +12,11 @@ In memory of Steve Jobs...
 == Description ==
 
 <strong>In memory of Steve Jobs.</strong>
+
 For desktop browsers plugin displays small tab at the right bottom corner of website. Once clicked, the memorial box appears.
 For mobile browsers plugin displays memorial box at the top of website. It is displayed only one time per visitor.
 Memorial box contains Steve's photo and his famous quote "Stay Hungry, Stay Foolish!".
+
 You can see demo here: <a href="http://www.icprojects.net/steve-jobs-memorial.html">In memory of Steve Jobs</a>.
 
 == Installation ==
